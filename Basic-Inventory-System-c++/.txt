@@ -1,0 +1,9 @@
+Starter Armor,0
+Starter Sword,0
+Starter Bow,0
+Starter wand,0
+Upgrade Stone,0
+Health Potion,0
+Mana Potion,0
+Arrow,0
+Key,0
